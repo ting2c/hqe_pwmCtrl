@@ -1,5 +1,6 @@
 # Download files from:
-	1. [https://github.com/ywcheng8526/tool_pc/blob/master/GPIO_181011/obj/SN32F700B.hex](https://github.com/ywcheng8526/tool_pc/blob/master/GPIO_181011/obj/SN32F700B.hex)
+	1. [TEXT TO SHOW](https://github.com/ywcheng8526/tool_pc/blob/master/GPIO_181011/obj/SN32F700B.hex)
+
 	2. https://github.com/ywcheng8526/tool_pc/blob/master/GUI_beta_181011/WindowsFormsApplication1/bin/Debug/HQE_pwmGUI.exe
 
 # GPIO_181011
