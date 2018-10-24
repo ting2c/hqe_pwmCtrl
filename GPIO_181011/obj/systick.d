@@ -1,0 +1,13 @@
+.\obj\systick.o: SysTick\SysTick.c
+.\obj\systick.o: SysTick\SysTick.h
+.\obj\systick.o: C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700B.h
+.\obj\systick.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h
+.\obj\systick.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\systick.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+.\obj\systick.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+.\obj\systick.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+.\obj\systick.o: C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\system_SN32F700B.h
+.\obj\systick.o: C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700_Def.h
+.\obj\systick.o: SysTick\..\Interface\GPIO\GPIO.h
+.\obj\systick.o: SysTick\..\UART\UART.h
+.\obj\systick.o: .\RTE\_SN32F700B\..\..\Utility\Utility.h

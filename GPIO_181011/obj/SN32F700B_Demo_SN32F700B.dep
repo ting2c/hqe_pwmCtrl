@@ -1,0 +1,74 @@
+Dependencies for Project 'SN32F700B_Demo', Target 'SN32F700B': (DO NOT MODIFY !)
+F (.\main.c)(0x5BBF96CA)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\RTE\_SN32F700B-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSN32F700B-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700B.h)(0x5B7FB798)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\system_SN32F700B.h)(0x4F8E7CAC)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700_Def.h)(0x5A40AEF4)
+I (Interface\GPIO\GPIO.h)(0x5BBB0147)
+I (Utility\Utility.h)(0x55713E66)
+I (SysTick\SysTick.h)(0x5BBB611F)
+I (UART\UART.h)(0x5BBC414D)
+F (.\CodeOption_SN32F700B.s)(0x5A69540F)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_SN32F700B-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include--pd "__UVISION_VERSION SETA 525" --pd "_RTE_ SETA 1" --pd "SN32F700B SETA 1"--list .\codeoption_sn32f700b.lst --xref -o .\obj\codeoption_sn32f700b.o --depend .\obj\codeoption_sn32f700b.d)
+F (.\Interface\GPIO\GPIO.c)(0x5BB5F06A)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\RTE\_SN32F700B-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSN32F700B-o .\obj\gpio.o --omf_browse .\obj\gpio.crf --depend .\obj\gpio.d)
+I (Interface\GPIO\GPIO.h)(0x5BBB0147)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700B.h)(0x5B7FB798)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\system_SN32F700B.h)(0x4F8E7CAC)
+F (.\Utility\Utility.c)(0x583E6AAA)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\RTE\_SN32F700B-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSN32F700B-o .\obj\utility.o --omf_browse .\obj\utility.crf --depend .\obj\utility.d)
+I (Utility\Utility.h)(0x55713E66)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700B.h)(0x5B7FB798)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\system_SN32F700B.h)(0x4F8E7CAC)
+F (.\SysTick\SysTick.c)(0x5BBB6070)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\RTE\_SN32F700B-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSN32F700B-o .\obj\systick.o --omf_browse .\obj\systick.crf --depend .\obj\systick.d)
+I (SysTick\SysTick.h)(0x5BBB611F)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700B.h)(0x5B7FB798)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\system_SN32F700B.h)(0x4F8E7CAC)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700_Def.h)(0x5A40AEF4)
+I (SysTick\..\Interface\GPIO\GPIO.h)(0x5BBB0147)
+I (SysTick\..\UART\UART.h)(0x5BBC414D)
+I (.\RTE\_SN32F700B\..\..\Utility\Utility.h)(0x55713E66)
+F (.\UART\UART0.c)(0x5BBF5F64)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\RTE\_SN32F700B-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSN32F700B-o .\obj\uart0.o --omf_browse .\obj\uart0.crf --depend .\obj\uart0.d)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700B.h)(0x5B7FB798)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\system_SN32F700B.h)(0x4F8E7CAC)
+I (UART\UART.h)(0x5BBC414D)
+F (.\UART\UART1.c)(0x5BB4737B)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\RTE\_SN32F700B-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSN32F700B-o .\obj\uart1.o --omf_browse .\obj\uart1.crf --depend .\obj\uart1.d)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700B.h)(0x5B7FB798)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\system_SN32F700B.h)(0x4F8E7CAC)
+I (UART\UART.h)(0x5BBC414D)
+I (.\RTE\_SN32F700B\..\..\Utility\Utility.h)(0x55713E66)
+F (RTE\Device\SN32F705BJ\startup_SN32F700B.s)(0x57BBB2C8)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_SN32F700B-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include--pd "__UVISION_VERSION SETA 525" --pd "_RTE_ SETA 1" --pd "SN32F700B SETA 1"--list .\startup_sn32f700b.lst --xref -o .\obj\startup_sn32f700b.o --depend .\obj\startup_sn32f700b.d)
+F (RTE\Device\SN32F705BJ\system_SN32F700B.c)(0x5BBF9D0F)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\RTE\_SN32F700B-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DSN32F700B-o .\obj\system_sn32f700b.o --omf_browse .\obj\system_sn32f700b.crf --depend .\obj\system_sn32f700b.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\SN32F700B.h)(0x5B7FB798)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include\system_SN32F700B.h)(0x4F8E7CAC)

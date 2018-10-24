@@ -1,0 +1,109 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000         ;/******************************************************
+                       ************************
+    2 00000000         ; * @file     CodeOption_SN32F700B.s
+    3 00000000         ; * @brief    Code option setup file for SONIX SN32F700B
+                        Device Series
+    4 00000000         ; * @version  V1.0.0
+    5 00000000         ; * @date     2018/01/26
+    6 00000000         ; *------- <<< Use Configuration Wizard in Context Menu 
+                       >>> ------------------
+    7 00000000         ; *
+    8 00000000         ; * @note
+    9 00000000         ; * Copyright (C) 2017-2018 ARM Limited. All rights rese
+                       rved.
+   10 00000000         ; *
+   11 00000000         ; * @par
+   12 00000000         ; * ARM Limited (ARM) is supplying this software for use
+                        with Cortex-M 
+   13 00000000         ; * processor based microcontrollers.  This file can be 
+                       freely distributed 
+   14 00000000         ; * within development tools that are supporting such AR
+                       M based processors. 
+   15 00000000         ; *
+   16 00000000         ; * @par
+   17 00000000         ; * THIS SOFTWARE IS PROVIDED "AS IS".  NO WARRANTIES, W
+                       HETHER EXPRESS, IMPLIED
+   18 00000000         ; * OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, IMPLIED
+                        WARRANTIES OF
+   19 00000000         ; * MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+                        APPLY TO THIS SOFTWARE.
+   20 00000000         ; * ARM SHALL NOT, IN ANY CIRCUMSTANCES, BE LIABLE FOR S
+                       PECIAL, INCIDENTAL, OR
+   21 00000000         ; * CONSEQUENTIAL DAMAGES, FOR ANY REASON WHATSOEVER.
+   22 00000000         ; *
+   23 00000000         ; ******************************************************
+                       ************************/
+   24 00000000         
+   25 00000000         
+   26 00000000                 AREA             |.ARM.__at_0x1FFF2000|, CODE, R
+EADONLY 
+                                                            ;AREA CODE;    Defi
+                                                            ne,CODE,READONLY
+   27 00000000         ; <h> Code Option
+   28 00000000         ;   <o.16..31> Code Security
+   29 00000000         ;  <0x0000=> CS0
+   30 00000000         ;  <0x5A5A=> CS1
+   31 00000000         ;  <0xA5A5=> CS2
+   32 00000000         ;   <o.0> Boot Loader Enable
+   33 00000000         ;  <0=> Enable
+   34 00000000         ;  <1=> Disable
+   35 00000000         ; </h>
+   36 00000000 00000002 
+                       Code_Option
+                               EQU              0x00000002
+   37 00000000         
+   38 00000000         
+   39 00000000         
+   40 00000000         
+   41 00000000 00000002        DCD              Code_Option ;
+   42 00000004         
+
+
+
+ARM Macro Assembler    Page 2 
+
+
+   43 00000004                 END
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M0 --apcs=interw
+ork --depend=.\obj\codeoption_sn32f700b.d -o.\obj\codeoption_sn32f700b.o -I.\RT
+E\_SN32F700B -IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include -IC:\Keil
+_v5\ARM\PACK\SONiX\SN32F7_DFP\1.4.5\Device\Include --predefine="__UVISION_VERSI
+ON SETA 525" --predefine="_RTE_ SETA 1" --predefine="SN32F700B SETA 1" --list=.
+\codeoption_sn32f700b.lst CodeOption_SN32F700B.s
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Relocatable symbols
+
+.ARM.__at_0x1FFF2000 00000000
+
+Symbol: .ARM.__at_0x1FFF2000
+   Definitions
+      At line 26 in file CodeOption_SN32F700B.s
+   Uses
+      None
+Comment: .ARM.__at_0x1FFF2000 unused
+1 symbol
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Absolute symbols
+
+Code_Option 00000002
+
+Symbol: Code_Option
+   Definitions
+      At line 36 in file CodeOption_SN32F700B.s
+   Uses
+      At line 41 in file CodeOption_SN32F700B.s
+Comment: Code_Option used once
+1 symbol
+335 symbols in table

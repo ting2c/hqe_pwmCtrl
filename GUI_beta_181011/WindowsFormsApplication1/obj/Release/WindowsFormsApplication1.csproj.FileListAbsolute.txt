@@ -1,0 +1,17 @@
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\GUI_beta_181011\WindowsFormsApplication1\bin\Release\HQE_pwmGUI.exe.config
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\GUI_beta_181011\WindowsFormsApplication1\bin\Release\HQE_pwmGUI.exe
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\GUI_beta_181011\WindowsFormsApplication1\bin\Release\HQE_pwmGUI.pdb
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\GUI_beta_181011\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\GUI_beta_181011\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\GUI_beta_181011\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\GUI_beta_181011\WindowsFormsApplication1\obj\Release\HQE_pwmGUI.exe
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\GUI_beta_181011\WindowsFormsApplication1\obj\Release\HQE_pwmGUI.pdb
+C:\Users\yueh-wencheng\Downloads\sonix\GUI\GUI_beta_181011\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
