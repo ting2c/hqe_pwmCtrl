@@ -3,7 +3,7 @@
 
 2. [HQE_pwmGUI.exe](https://github.com/ywcheng8526/tool_pc/blob/master/GUI_beta_181011/WindowsFormsApplication1/bin/Debug/HQE_pwmGUI.exe)
 
-# Repository briefing
+# Repository briefing:
 ## GPIO_181011
 
 Using P2.5(GPIO) of SONIX MCU as input (for seeting motor rpm) based on different duty rates with the following options:
